@@ -3,9 +3,9 @@
 ## Sales Report :
 ### Project objective:
 
-1. Create a cx performance.pdf
+1. Create a customer performance report(https://github.com/himanshusaxena11/Analytics-by-Excel/blob/8d7e2e5766bc6aefe379c96b73b7eea453eb803d/cx%20performance.pdf)
 
-2. Conduct a comprehensive comparison between market perfpormance.pdf
+2. Conduct a comprehensive comparison between market perfpormance and sales target(https://github.com/himanshusaxena11/Analytics-by-Excel/blob/8d7e2e5766bc6aefe379c96b73b7eea453eb803d/market%20perfpormance.pdf))
 
 Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -16,9 +16,9 @@ Role of reports: Determine effective customer discounts, facilitate negotiations
 ## Finance Report :
 ### Project objective:
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+1. Create Profit and Loss (P&L) reports by Fiscal Year(https://github.com/himanshusaxena11/Analytics-by-Excel/blob/8d7e2e5766bc6aefe379c96b73b7eea453eb803d/P%20%26%20L%20statement%20by%20fiscal%20year.pdf) & Months(https://github.com/himanshusaxena11/Analytics-by-Excel/blob/8d7e2e5766bc6aefe379c96b73b7eea453eb803d/P%20%26%20L%20statement%20by%20month.pdf)
 
-2. Create Profit and Loss (P&L) reports by Markets
+2. Create Profit and Loss (P&L) reports by Markets(https://github.com/himanshusaxena11/Analytics-by-Excel/blob/8d7e2e5766bc6aefe379c96b73b7eea453eb803d/P%26L%20statement%20by%20Market.pdf)
 
 Purpose of sales analytics: Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
