@@ -3,7 +3,7 @@
 ## Sales Report :
 ### Project objective:
 
-1. Create a customer performance report
+1. Create a Customer performance report (https://github.com/himanshusaxena11/Analytics-by-Excel/blob/26fa1036996af3fdf53e382fdaea6eb547f2a768/cx%20performance.pdf)
 
 2. Conduct a comprehensive comparison between market performance and sales targets
 
